@@ -1,0 +1,8 @@
+# Ignore large raw datasets
+data/household_power_consumption.csv
+
+
+# Python cache
+__pycache__/
+*.pyc
+
