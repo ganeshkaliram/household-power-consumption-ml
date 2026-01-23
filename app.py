@@ -6,7 +6,7 @@ import joblib
 import numpy as np
 import pandas as pd
 
-st.title("🏠 Household Power Consumption Prediction (ML)")
+st.title("🏠 Classroom Power Consumption Prediction (ML)")
 st.write("Predict household electricity usage based on appliances and days.")
 
 # Load model
@@ -102,3 +102,4 @@ CO2 Emission: {co2_emission:.2f} kg
 
 else:
     st.info("⬅️ Enter values and click Predict to see advanced results.")
+
